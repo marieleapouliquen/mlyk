@@ -10,7 +10,7 @@ description: Marie-Léa Pouliquen — doctorante
     <h1>Marie-Léa Pouliquen</h1>
   </header>
 
-  <p class="home-tagline">Doctorante-ingénieure CNRS en sciences et humanités environnementales à l'Université de Rennes 2.</p>
+  <p class="home-tagline">Carnets artistiques</p>
 
 <div class="home-banner" role="img" aria-label="Paysage forestier"></div>
 
